@@ -1,14 +1,9 @@
-// Paste your Firebase web app config here to turn on sync between devices.
-// Leave it as null to keep data on this device only.
-// Firebase console → Project settings → Your apps → Web app → "SDK setup and configuration" → Config
-window.FIREBASE_CONFIG = null;
-/* Example:
+// Firebase web app config. Set to null to keep data on this device only.
 window.FIREBASE_CONFIG = {
-  apiKey: "AIza...",
+  apiKey: "AIzaSyArINOuTaKShdXpT3OkpY9a-6TOQEKjqIU",
   authDomain: "calorie-column.firebaseapp.com",
   projectId: "calorie-column",
-  storageBucket: "calorie-column.appspot.com",
-  messagingSenderId: "1234567890",
-  appId: "1:1234567890:web:abcdef"
+  storageBucket: "calorie-column.firebasestorage.app",
+  messagingSenderId: "890312523815",
+  appId: "1:890312523815:web:f8da0315df30c310d1ce02"
 };
-*/
